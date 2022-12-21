@@ -1,0 +1,19 @@
+.cell {
+    height: 50px; 
+    width: 50px ;
+    padding: 5px ;
+    border: 2px solid black 
+
+}
+
+.enabled {
+    cursor: pointer 
+}
+
+.disabled {
+    background-color: yellow;
+}
+
+.winner {
+    background-color: green;
+}
